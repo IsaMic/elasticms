@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "content-hash": "bde6a4bdb037a59d7a6d72d907ecbd40",
+    "content-hash": "9d4b3f5be1246154ad00e676e0d78c4c",
     "packages": [
         {
             "name": "aws/aws-sdk-php",
@@ -1539,16 +1539,16 @@
         },
         {
             "name": "elasticms/core-bundle",
-            "version": "1.10.6",
+            "version": "1.10.7",
             "source": {
                 "type": "git",
                 "url": "https://github.com/ems-project/EMSCoreBundle.git",
-                "reference": "753b9b35faa3807ce3512715f3ec411ddc4b77e4"
+                "reference": "eb5c2c7d4eb55886a528b216d3dc275c647fe314"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/ems-project/EMSCoreBundle/zipball/753b9b35faa3807ce3512715f3ec411ddc4b77e4",
-                "reference": "753b9b35faa3807ce3512715f3ec411ddc4b77e4",
+                "url": "https://api.github.com/repos/ems-project/EMSCoreBundle/zipball/eb5c2c7d4eb55886a528b216d3dc275c647fe314",
+                "reference": "eb5c2c7d4eb55886a528b216d3dc275c647fe314",
                 "shasum": ""
             },
             "require": {
@@ -1625,7 +1625,7 @@
             "keywords": [
                 "elasticms"
             ],
-            "time": "2019-09-12T13:36:31+00:00"
+            "time": "2019-09-13T22:37:43+00:00"
         },
         {
             "name": "elasticms/local-user-bundle",
