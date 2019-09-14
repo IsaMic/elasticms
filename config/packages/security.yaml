@@ -41,7 +41,7 @@ security:
                 lifetime: 604800 # 1 week in seconds
                 path:     /
             switch_user: { role: ROLE_ADMIN, provider:   fos_userbundle }
-            
+
     access_control:
         - { path: ^/$, role: IS_AUTHENTICATED_ANONYMOUSLY }
         - { path: ^/public/, role: IS_AUTHENTICATED_ANONYMOUSLY }
